@@ -50,7 +50,7 @@ This project implements the classic Tic Tac Toe game using Java. It features a c
 
 ## Screenshots
 
-![Tic Tac Toe CLI]("C:\Users\inthi\Pictures\Screenshots\Screenshot 2024-08-06 133502-cli.png")
+![Tic Tac Toe CLI]()
 
 ## Contributing
 
