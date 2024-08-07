@@ -12,7 +12,7 @@ This project implements the classic Tic Tac Toe game using Java. It features a c
 - **Winner Detection:** Automatically checks for and announces the winner or a draw.
 - **Valid Move Enforcement:** Ensures players can only place marks on empty spots within the grid.
 
-## Technologies Used
+## Technologies used
 
 - **Java:** Core language used for the game logic.
 
